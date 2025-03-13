@@ -191,6 +191,13 @@ body {
   transition: all 0.3s;
 }
 
+.social-link {
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+
 .link-item:hover {
   background: var(--green);
   cursor: pointer;
